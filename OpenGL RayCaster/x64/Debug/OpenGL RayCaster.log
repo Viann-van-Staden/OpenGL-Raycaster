@@ -1,0 +1,16 @@
+﻿  Main.cpp
+C:\Users\viava\Desktop\OpenGL Learning\Projects\OpenGL RayCaster\Main.cpp(101,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\viava\Desktop\OpenGL Learning\Projects\OpenGL RayCaster\Main.cpp(102,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\viava\Desktop\OpenGL Learning\Projects\OpenGL RayCaster\Main.cpp(105,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\viava\Desktop\OpenGL Learning\Projects\OpenGL RayCaster\Main.cpp(106,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\viava\Desktop\OpenGL Learning\Projects\OpenGL RayCaster\Main.cpp(170,31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\viava\Desktop\OpenGL Learning\Projects\OpenGL RayCaster\Main.cpp(170,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\viava\Desktop\OpenGL Learning\Projects\OpenGL RayCaster\Main.cpp(171,35): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\viava\Desktop\OpenGL Learning\Projects\OpenGL RayCaster\Main.cpp(171,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\viava\Desktop\OpenGL Learning\Projects\OpenGL RayCaster\Main.cpp(172,37): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\viava\Desktop\OpenGL Learning\Projects\OpenGL RayCaster\Main.cpp(172,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\viava\Desktop\OpenGL Learning\Projects\OpenGL RayCaster\Main.cpp(173,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\viava\Desktop\OpenGL Learning\Projects\OpenGL RayCaster\Main.cpp(173,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\viava\Desktop\OpenGL Learning\Projects\OpenGL RayCaster\Main.cpp(359,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\viava\Desktop\OpenGL Learning\Projects\OpenGL RayCaster\Main.cpp(360,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  OpenGL RayCaster.vcxproj -> C:\Users\viava\Desktop\OpenGL Learning\Projects\OpenGL RayCaster\x64\Debug\OpenGL RayCaster.exe
